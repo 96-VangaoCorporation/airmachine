@@ -12,6 +12,7 @@
 //				BL	  接PA2
 *******************************************************************************/
 
+// uset to github push test
 
 int main(void)
 {
@@ -23,5 +24,5 @@ int main(void)
 	  Ms_Treat();		//定时器定时处理
 	  ScreenProcess();	//屏幕绘制
   }
-
+	
 }
